@@ -1,10 +1,6 @@
-# How to prevent the events being drag and dropped from one resource to another in JavaScript Scheduler?
+# How to prevent the events being drag and dropped from one resource to another in JavaScript Scheduler
 
-Repository description: Example showing how to prevent cross-resource drag-and-drop in a Syncfusion JavaScript Scheduler sample.
-
-## Overview
-
-This focused sample demonstrates how to validate and prevent Scheduler events from being moved between different resources. It shows where to hook drag handlers and how to cancel cross-resource drops so resource ownership remains consistent.
+This sample demonstrates how to prevent cross-resource drag-and-drop in the [JavaScript Scheduler](https://www.syncfusion.com/javascript-ui-controls/js-scheduler) by validating event movements across resources. It showcases handling drag events and canceling cross-resource drops to maintain consistent resource assignment, providing a practical approach for enforcing business rules in scheduling applications.
 
 ## Features
 
